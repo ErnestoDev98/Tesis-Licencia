@@ -1,0 +1,29 @@
+**Acuerdo de Licencia de Usuario Final (EULA) para VisualMed Software**
+
+IMPORTANTE: LEA ESTE ACUERDO DE LICENCIA DE USUARIO FINAL (EULA) CUIDADOSAMENTE ANTES DE UTILIZAR EL SOFTWARE VISUALMED. AL UTILIZAR EL SOFTWARE, USTED ACEPTA ESTAR OBLIGADO POR LOS TÉRMINOS DE ESTE ACUERDO. SI NO ESTÁ DE ACUERDO CON LOS TÉRMINOS, NO INSTALE, COPIE, DESCARGUE O USE EL SOFTWARE DE NINGUNA MANERA.
+
+1. **Concesión de Licencia:**
+   VisualMed Solutions ("VMS") le concede una licencia no exclusiva, no transferible y limitada para usar el software VisualMed ("Software") únicamente en su forma ejecutable y solo para fines médicos y de diagnóstico por profesionales calificados.
+
+2. **Restricciones:**
+   Usted no puede:
+   - Modificar, traducir, adaptar o crear obras derivadas del Software.
+   - Invertir ingeniería, descompilar, desensamblar o intentar descubrir el código fuente del Software.
+   - Alquilar, prestar, sublicenciar o proporcionar servicios comerciales de alojamiento con el Software.
+
+3. **Propiedad Intelectual:**
+   El Software y todas las copias que realice son propiedad de VMS y están protegidos por leyes de derechos de autor y tratados internacionales. VMS retiene todos los derechos no otorgados expresamente a usted en este EULA.
+
+4. **Uso del Software:**
+   El Software está diseñado para ser utilizado como una herramienta de ayuda en la visualización de imágenes médicas y no debe ser utilizado como el único método de diagnóstico. Siempre debe ser utilizado por profesionales de la salud calificados.
+
+5. **Garantía y Descargo de Responsabilidad:**
+   VMS no garantiza que el uso del Software será ininterrumpido o libre de errores. El Software se proporciona "TAL CUAL" sin garantías de ningún tipo.
+
+6. **Limitación de Responsabilidad:**
+   En ningún caso VMS será responsable de cualquier daño directo, indirecto, incidental, especial o consecuente que surja del uso o la incapacidad de usar el Software.
+
+7. **Terminación:**
+   Este EULA es efectivo hasta que se termine. Su licencia terminará automáticamente sin aviso de VMS si usted incumple alguna de las restricciones o términos de este EULA.
+
+Al hacer clic en "Aceptar", usted reconoce que ha leído y entendido este Acuerdo de Licencia de Usuario Final y acepta estar obligado por sus términos y condiciones.
